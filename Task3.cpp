@@ -1,4 +1,4 @@
-﻿/*
+
 #include <iostream>
 using namespace std;
 
@@ -94,5 +94,3 @@ int main()
 		cout << CheckTable(table, M, amount) << endl;
 	}
 }
-
-*/
