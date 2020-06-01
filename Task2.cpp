@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <ctime>
 using namespace std;
 
@@ -16,4 +16,4 @@ int main()
 		else if (n < x) cout << "Number < " << x << endl << endl << "Try again: ";
 	}
 	cout << "You Win!" << endl;
-}*/
+}
